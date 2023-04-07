@@ -1,25 +1,6 @@
-## pasidarome NT svetaine
+## Ilgo savaitgalio uzduotys pasispresti
 
-BASE URL = https://robust-safe-crafter.glitch.me/
-
-Sukuriame du puslapius (IndexPage ir AddPage)
-
-### IndexPage
-
-Šis puslapis atsisiųs skelbimus iš API ir juos atvaizduos kortelėse. Filter funkcionalumas nėra privalaomas, tačiau stipresniems studentams - rekomenduojamas (t.y. paspaudus ant mygtuko turi filtruoti NT pagal konkretų miestą).
-
-## AddPage
-
-1. Suvedus informaciją į laukelius, juos turi POSTint į API.
-2. validuoti visus ivesties laukus
-3. sekmes atveju pranesti su komponentu ir nunaviguoti i IndexPage
-4. sekmes atveju duomenis issiusti el pastu.
-
-Duomenų formatas:
-
-{
-image: string,
-city: string,
-price: number,
-description: string
-}
+1. https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1
+2. https://www.frontendmentor.io/challenges/pricing-component-with-toggle-8vPwRMIC
+3. https://www.frontendmentor.io/challenges/launch-countdown-timer-N0XkGfyz- galite daryti tiesiog besikeicianti laika, bet flip efekto
+4. https://www.frontendmentor.io/challenges/job-listings-with-filtering-ivstIPCt sita dare Vytautas, labai gera uzduotis, visiems rekomenduoju.
